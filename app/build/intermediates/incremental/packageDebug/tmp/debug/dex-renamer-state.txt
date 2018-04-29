@@ -1,0 +1,4 @@
+#Sat Apr 28 20:42:52 IST 2018
+base.0=/Users/i319297/Downloads/My_CTS 2/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
